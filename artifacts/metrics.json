@@ -1,0 +1,10 @@
+{
+  "r2": 0.9884301209927054,
+  "mae": 1.6469703984255568,
+  "rmse": 2.075066490148804,
+  "source_rows": 10000,
+  "duplicates_removed": 127,
+  "train_samples": 7898,
+  "test_samples": 1975,
+  "random_state": 42
+}

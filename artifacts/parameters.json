@@ -1,0 +1,17 @@
+{
+  "hyperparameters": {
+    "copy_X": true,
+    "fit_intercept": true,
+    "n_jobs": null,
+    "positive": false,
+    "tol": 1e-06
+  },
+  "intercept": -33.981324496440735,
+  "coefficients": {
+    "numeric__hours_studied": 2.8510218973918953,
+    "numeric__previous_scores": 1.0184303434798196,
+    "numeric__sleep_hours": 0.472073293409317,
+    "numeric__sample_question_papers_practiced": 0.18870365910309256,
+    "activities__extracurricular_activities_Yes": 0.5738229675498986
+  }
+}
